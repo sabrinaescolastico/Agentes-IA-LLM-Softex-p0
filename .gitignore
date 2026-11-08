@@ -1,1 +1,15 @@
+# Ambiente virtual
+.venv/
+env/
+venv/
 
+# Configurações locais de ambiente
+.env
+
+# Cache do Python e Pytest
+__pycache__/
+.pytest_cache
+*.pyc
+
+# Logs
+logs/
